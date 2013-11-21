@@ -13,7 +13,7 @@ Request:
 
     [GET]  http://charlupa.herokuapp.com/api/extract?phrase=taking+a+day_off_tomorrow
 
-Response:
+JSON Response:
 
     { "category": "TIMEOFF", 
       "action": "CREATE_REQUEST",
